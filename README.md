@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning responsive web design and programming languages such as Python, C, Java, HTML, and CSS.
 - 💞️ I’m looking to collaborate on projects that involve natural language processing, web development, and innovative tech solutions.
 - 📫 How to reach me: aneesamehmood19@gmail.com
-- ⚡ Fun fact: I love buildin Lego sets :D
+- ⚡ Fun fact: I love building Lego sets :D
 
 <!---
 aneesamehmood/aneesamehmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
