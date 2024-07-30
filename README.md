@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @aneesamehmood
-- 👀 I’m interested in improving my programming skills and exploring new technologies.
-- 🌱 I’m currently learning responsive web design and programming languages such as Python, C, Java, HTML, and CSS.
-- 💞️ I’m looking to collaborate on projects that involve natural language processing, web development, and innovative tech solutions.
-- 📫 How to reach me: aneesamehmood19@gmail.com
-- ⚡ Fun fact: I love building Lego sets :D
+I'm Aneesa, a software engineer undergrad student
 
-<!---
-aneesamehmood/aneesamehmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love mixing my tech skills with design to make cool and efficient apps, aiming to build software that's scalable and super user-friendly. Outside of work, I'm always learning more about tech, juggling side projects, diving into full stack development, and balancing my coursework. I'm passionate about art and gaming, and I hope to make my own games someday. I'm still figuring out my true passion, but I'm excited about the journey and where it will take me.
+
+Fun Facts:
+  - I really like matcha.
+  - Zombie apocalypse story games are my favorite.
+  - Most of my money goes to Lego sets. 
