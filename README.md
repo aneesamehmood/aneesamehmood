@@ -1,8 +1,6 @@
-# Hi there! 🤗
+# hi, i'm aneesa :P
 
-I'm Aneesa, a software engineer undergrad student in VA.
+software engineering student based in virginia. 
+the things i build sometimes work.
 
-Fun Facts:
-  - I really like matcha.
-  - Zombie apocalypse story games are my favorite.
-  - Most of my money goes to Lego sets. 
+feel free to poke around!
